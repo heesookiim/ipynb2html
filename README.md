@@ -2,6 +2,10 @@
 
 This project demonstrates how to create interactive visualizations using Plotly, and how to generate a HTML dashboard.
 
+https://github.com/user-attachments/assets/d2d7cbf3-4519-4e54-abaa-3ca7ac332307
+
+
+
 ## Features
 
 - Interactive Plotly visualizations of the Iris dataset

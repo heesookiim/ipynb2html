@@ -32,8 +32,8 @@ This project demonstrates how to create interactive visualizations using Plotly,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BoilerExams.git
-   cd BoilerExams
+   git clone https://github.com/heesookiim/ipynb2html.git
+   cd ipynb2html
    ```
 
 2. Create and activate a virtual environment:
